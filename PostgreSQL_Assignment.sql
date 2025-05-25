@@ -122,12 +122,10 @@ VALUES (
         NULL
     );
 
---viewing tables
-SELECT * FROM rangers;
-
-SELECT * FROM sightings;
-
-SELECT * FROM species;
+-- --viewing tables
+-- SELECT * FROM rangers;
+-- SELECT * FROM sightings;
+-- SELECT * FROM species;
 
 --1️⃣ Register a new ranger with provided data with name = 'Derek Fox' and region = 'Coastal Plains'
 INSERT INTO
